@@ -1,8 +1,8 @@
-Fala Dev! Meu nome é Luiz Gabriel 👋
+ Meu nome é Luiz Gabriel 👋
 
 
 - 🔭 Estou cursando análise e  desenvolvimento de sistemas ...
-- 🌱 Estou fazendo o Bootcamp da DIO de BackEnd com Python ...
+
 
 <div>
   <a href="https://github.com/luizgabb/">
