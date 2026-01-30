@@ -1,7 +1,5 @@
- Meu nome é Luiz Gabriel 👋
-
-
-- 🔭 Estou cursando análise e  desenvolvimento de sistemas ...
+👋Meu nome é Luiz Gabriel | Angular | Java | SQL\NoSQL |
+💻Desenvolvedor na SEINFRA(Secretaria da Infraestrutura do Estado do Ceará)
 
 
 ##
